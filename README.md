@@ -1,2 +1,2 @@
 # RedLightGreenLight
-This repository contains the executable application and supporting files of the Red Light Green Light video game myself and three other students developed for psychological research purposes.
+This repository contains the executable application and C# files for the video game Red Light Green Light that was developed as a team for the Ohio University's Psychology Department for research purposes.
